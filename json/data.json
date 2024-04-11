@@ -1,0 +1,101 @@
+{
+  "user": [
+    {
+      "type": "groom",
+      "nickname": "Haris",
+      "fullname": "Haris Maulana",
+      "father": "H. Harjono M.PD",
+      "mother": "Hj. Ismuha Rodhiyah SSos",
+      "ofSibling": 1
+    },
+    {
+      "type": "bride",
+      "nickname": "Ana",
+      "fullname": "Miftahul Amanah",
+      "father": "(Alm) H. Muhammad Suyono, S.T.",
+      "mother": "Hj. Sri Astutik",
+      "ofSibling": 2
+    }
+  ],
+  "events": [
+    {
+      "no": 1,
+      "name": "Akad",
+      "date": "2024-04-26",
+      "dayOfMonth": "26",
+      "day": "Jum'at",
+      "month": "April",
+      "year": "2024",
+      "timeStart": "7.30",
+      "timeEnd": "8.30"
+    },
+    {
+      "no": 2,
+      "name": "Temu Manten",
+      "date": "2024-04-26",
+      "dayOfMonth": "26",
+      "day": "Jum'at",
+      "month": "April",
+      "year": "2024",
+      "timeStart": "8.30",
+      "timeEnd": "10.30"
+    },
+    {
+      "no": 3,
+      "name": "Resepsi",
+      "date": "2024-04-26",
+      "dayOfMonth": "26",
+      "day": "Jum'at",
+      "month": "April",
+      "year": "2024",
+      "timeStart": "16.00",
+      "timeEnd": "21.00"
+    }
+  ],
+  "location": "Dsn. Dodokan RT 21 RW 03 Tanjungsari, Taman, Sidoarjo",
+  "maps": "https://maps.google.com/?q=-7.363165,112.649254",
+  "gallery": [
+    ["image/gallery/11.png", "image/gallery/12.png", "image/gallery/13.png"],
+    ["image/gallery/21.png", "image/gallery/22.png"],
+    ["image/gallery/31.png"]
+  ],
+  "story": [
+    {
+      "title": "The Beginning",
+      "date": "16 Agustus 2014",
+      "image": "image/story/1.png",
+      "description": "Kami bertemu di SMA Wachid Hasyim 2 Taman, pertemuan awal di MOUS yang menjadi awal kami mengenal satu sama lain."
+    },
+    {
+      "title": "Ta`aruf",
+      "date": "21 Desember 2023",
+      "image": "image/story/2.png",
+      "description": "Keluarga kami dipertemukan untuk pertama kalinya dalam acara “Khitbah” yang artinya meminang sang calon mempelai wanita, untuk mengikat hubungan kami dalam menuju ke jenjang yang lebih serius."
+    },
+    {
+      "title": "Menikah",
+      "date": "26 April 2024",
+      "image": "image/story/3.png",
+      "description": "Atas restu orang tua dan keluarga besar kami berdua. Kami memutuskan untuk saling berkomitmen dan melaksanakan ibadah terpanjang kami, yakni melaksanakan sebuah pernikahan."
+    }
+  ],
+  "gift": {
+    "name": "Miftahul Amanah",
+    "bank": [
+      { "bankName": "BRI", "accountNumber": "768901003219504" },
+      { "bankName": "BCA", "accountNumber": "2711384458" }
+    ],
+    "address": "Gg. Sami Rukun blok A5-6, Tawang Sari, Taman, Sidoarjo 61257"
+  },
+  "imageSlide": [
+    "image/slide/1.png",
+    "image/slide/2.png",
+    "image/slide/3.png",
+    "image/slide/4.png",
+    "image/slide/5.png",
+    "image/slide/6.png",
+    "image/slide/7.png",
+    "image/slide/8.png",
+    "image/slide/9.png"
+  ]
+}
