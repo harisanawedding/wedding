@@ -20,40 +20,19 @@
   "events": [
     {
       "no": 1,
-      "name": "Akad",
-      "date": "2024-04-26",
-      "dayOfMonth": "26",
-      "day": "Jum'at",
-      "month": "April",
+      "name": "Unduh Mantu",
+      "date": "2024-04-22",
+      "dayOfMonth": "22",
+      "day": "Sabtu",
+      "month": "Juni",
       "year": "2024",
-      "timeStart": "7.30",
-      "timeEnd": "8.30"
-    },
-    {
-      "no": 2,
-      "name": "Temu Manten",
-      "date": "2024-04-26",
-      "dayOfMonth": "26",
-      "day": "Jum'at",
-      "month": "April",
-      "year": "2024",
-      "timeStart": "8.30",
-      "timeEnd": "10.30"
-    },
-    {
-      "no": 3,
-      "name": "Resepsi",
-      "date": "2024-04-26",
-      "dayOfMonth": "26",
-      "day": "Jum'at",
-      "month": "April",
-      "year": "2024",
-      "timeStart": "16.00",
-      "timeEnd": "21.00"
+      "timeStart": "18.00",
+      "timeEnd": "22.00"
     }
   ],
-  "location": "Dsn. Dodokan RT 21 RW 03 Tanjungsari, Taman, Sidoarjo",
-  "maps": "https://maps.google.com/?q=-7.363165,112.649254",
+  "location": "GRHA ANUGERAH GUSTI 2",
+  "locationDetail": "Jl. Raya Ngelom Megare No.30, Ngelom, Kec. Taman, Kabupaten Sidoarjo, Jawa Timur 61257",
+  "maps": "https://maps.app.goo.gl/Ej7D4UApZMuMnZgJ9?g_st=ic",
   "gallery": [
     ["image/gallery/11.png", "image/gallery/12.png", "image/gallery/13.png"],
     ["image/gallery/21.png", "image/gallery/22.png"],
